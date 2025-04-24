@@ -174,4 +174,4 @@ If you find this tool useful, please give it a star on GitHub! Your support help
 ## 👤 Author
 
 - @abdansyakuro.id
-- purwa.theskinnyrat.com
+- [purwa.theskinnyrat.com](https://purwa.theskinnyrat.com)
