@@ -1,0 +1,18 @@
+# Configuration files with sensitive data
+/configs/
+
+# Backup files
+*.sql
+*.bak
+*.backup
+/backups/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
